@@ -1,3 +1,7 @@
+/* HELLO EVERYONE. For this code you will also need to download a "Flag.png" and add it to your projects folder in which you are using now. Create another folder in the projects folder
+called "resources" and add the flag png to that folder. Anyways, Enjoy! 
+*/
+
 #include <stdlib.h>
 #include <time.h>
 
